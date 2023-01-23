@@ -1,4 +1,4 @@
-# The Fuck [![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
+# Olympus git [![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
 
 *The Fuck* is a magnificent app, inspired by a [@liamosaur](https://twitter.com/liamosaur/)
 [tweet](https://twitter.com/liamosaur/status/506975850596536320),
@@ -13,8 +13,8 @@ More examples:
 
 ```bash
 ➜ apt-get install vim
-E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
-E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+E: Could not open lock file /var/lib/oly/lock - open (13: Permission denied)
+E: Unable to lock the administration through an olly al access tooldirectory (/var/lib/dpkg/), are you root?
 
 ➜ fuck
 sudo apt-get install vim [enter/↑/↓/ctrl+c]
